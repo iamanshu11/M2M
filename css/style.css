@@ -729,6 +729,11 @@ html {
   /* =================== footer ========================== */
 
 @media only screen and (max-width: 991px) {
+  .success::after
+{
+ display: none;
+}
+
   .section-padding{
     padding: 20px 0px;
   }
