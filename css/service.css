@@ -698,6 +698,12 @@ height: 100%;
 
 
 @media only screen and (max-width: 991px) {
+  .service-card {
+    border-radius: 10px;
+    min-height: 250px;
+    position: relative;
+    margin-bottom: 48px;
+}
   .service-straight{
     display: none;
   }
