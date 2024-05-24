@@ -774,6 +774,7 @@ html {
 
   .success-data-model {
     margin-left: 0px;
+    text-align: center;
   }
 
   .success-input {
@@ -1015,3 +1016,6 @@ html {
 
 }
 
+.contact-details-data{
+  padding-left: 0;
+}
