@@ -1052,3 +1052,7 @@ html {
   max-width: fit-content;
   font-size: 21px;
 }
+
+.modal-data-text{
+  padding: 0;
+}

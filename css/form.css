@@ -74,9 +74,7 @@ ol, ul {
 	background:#f5f5f5;
 }
 
-.zf-templateWidth {
-	margin:1% auto;	
-}
+
 
 .zf-templateWidth { 
 	width:100%;
@@ -155,7 +153,6 @@ ol, ul {
 
 .zf-tempHeadContBdr {
 	margin: 0;
-	padding:10px 25px;
 	color: #000;
 }
 .zf-tempHeadContBdr .zf-frmTitle {
