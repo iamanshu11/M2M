@@ -1023,6 +1023,10 @@ html {
   .process {
     position: static;
 }
+.dash-bar{
+  display: none;
+
+}
 
 }
 
