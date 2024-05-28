@@ -518,6 +518,7 @@ html {
     border-radius: 15px;
     width: 100%;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+    position: relative;
 }
 
 .consultancy-service-complex h4{
@@ -538,6 +539,13 @@ html {
 }
 .consult-card-body 
 {
+  padding: 30px 70px;
+  position: relative;
+}
+.cloud-text {
+  position: absolute;
+  bottom: -12px;
+  left: 0px;
   padding: 30px 70px;
 }
 /*================== partner ==========================*/
