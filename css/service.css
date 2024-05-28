@@ -1133,7 +1133,7 @@ height: 100%;
   margin: 10px 0;
 }
 .card-model-data{
-  padding: 35px 20px 0;
+  padding: 35px 20px 15px;
   margin: 10px 0;
 }
 .card-model img{
@@ -1220,4 +1220,30 @@ height: 100%;
 }
 .btn-data-complex a{
   text-decoration: none;
+}
+@media only screen and (max-width: 991px) {
+  .section-padding {
+      padding: 20px 0px;
+  }
+  .cloud-soln {
+    background-color: #fff;
+    box-shadow: 12px 0px 6px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    margin-bottom: 10px;
+}
+.cloud-soln-data {
+  background-color: #272F77;
+  padding: 30px 22px;
+  box-shadow: 1px 9px 6px rgba(0, 0, 0, 0.25);
+  border-radius: 50px;
+}
+.stramline-data{
+  gap: 20px;
+}
+.modal-data{
+  padding-left: 0;
+}
+.square-card-data{
+  margin: 0;
+}
 }

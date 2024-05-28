@@ -552,6 +552,7 @@ html {
 .story img{
   width: 100%;
   border-radius: 10px;
+  box-shadow: 5px 11px 7px #00000040;
 }
 .work{
   background: transparent linear-gradient(180deg, rgba(0, 212, 255, 1) 0%, rgba(255, 255, 255, 1) 100%);
@@ -1027,4 +1028,19 @@ html {
 
 .contact-details-data{
   padding-left: 0;
+}
+.privacy-data{
+  margin-top: 50px;
+  padding: 70px 0px 20px 0px;
+}
+.policy-data{
+  list-style: disc;
+}
+.cloud-data-explore{
+    padding: 30px 60px;
+    border-top-right-radius: 50px;
+}
+.cloud-text-explore{
+  font-family: "Rubik";
+  font-size: 20px;
 }
