@@ -1044,3 +1044,7 @@ html {
   font-family: "Rubik";
   font-size: 20px;
 }
+.dash-bar{
+  max-width: fit-content;
+  font-size: 20px;
+}
